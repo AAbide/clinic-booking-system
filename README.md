@@ -1,9 +1,11 @@
 # Clinic Booking System
 
 -- ===============================================
--- Clinic Booking System SQL Schema
+
 -- Author: Abidemi Adewale
+
 -- Date: 2025-05-14
+
 -- ===============================================
 
 
